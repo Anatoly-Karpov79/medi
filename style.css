@@ -1,0 +1,28 @@
+.top-line {
+  position: absolute;
+width: 1295px;
+height: 90px;
+left: 313px;
+top: 0px;
+}
+.logo {
+  position: absolute;
+width: 189px;
+height: 54.98px;
+left: 349px;
+top: 18.33px;
+}
+.top-line__numer {
+position: absolute;
+width: 125px;
+height: 19px;
+left: 603px;
+top: 36px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+color: #000000;
+}
