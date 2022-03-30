@@ -25,4 +25,109 @@ font-size: 16px;
 line-height: 19px;
 /* identical to box height */
 color: #000000;
+margin: 0;
+}
+.top-line__saloons {
+  position: absolute;
+width: 104px;
+height: 19px;
+left: 788px;
+top: 36px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+color: #000000;
+margin: 0;
+}
+.top-line__triangl-button {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 907px;
+  top: 36px;
+}
+.top-line__button {
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 15px 8px;
+
+position: absolute;
+width: 270px;
+height: 40px;
+left: 987px;
+top: 25px;
+
+/* accent-1 */
+
+background: #00868A;
+}
+.top-line__link {
+  position: static;
+width: 210px;
+height: 16px;
+left: 51px;
+top: 13px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.top-line__eye {
+  
+  width: 26px;
+  height: 22px;
+  margin: 0px 10px;
+  left: 15px;
+  top: 10px;
+  position: static;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  
+
+}
+.top-line__social {
+  position: absolute;
+width: 24px;
+height: 24px;
+
+top: 33px;
+}
+
+.top-line__social_vk {
+  left: 1316px;
+}
+
+.top-line__social_yt {
+  left: 1396px;
+}
+.top-line__social_fb {
+  left: 1476px;
+}
+.top-line__social_in {
+  left: 1556px;
 }
